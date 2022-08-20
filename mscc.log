@@ -1,0 +1,3612 @@
+17:19:49 Freitag, 19. August 2022
+  :0  STARTING
+-------------------------------
+17:19:49 Freitag, 19. August 2022
+  :1 frmGUI Called
+-------------------------------
+17:19:49 Freitag, 19. August 2022
+  :2 frmMain_Load Called
+-------------------------------
+17:19:49 Freitag, 19. August 2022
+  :3 MSCC Version: 08/15/2022  
+-------------------------------
+17:19:49 Freitag, 19. August 2022
+  :4 Initialize_Audio started
+-------------------------------
+17:19:49 Freitag, 19. August 2022
+  :5 Initialize_Audio. AUDIO_DEVICE_CONFIGURED: False
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :6 Starting timer3
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :7 Main_Tab_Enter -> Entered
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :8 Main_Tab_Enter -> Finished
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :9 Manage_Text_Display: display_mode: True
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :10 timer3_Tick -> RUNNING
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :11 Initialize_Network Called
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :12 getIiniStates -> ini file: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\mscc-rpi.ini
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :13 MSCC Port Address: 8889
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :14 GetLocalIPAddress: 192.168.43.221
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :15 MSCC IP ADDRESS: 127.0.1.1
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :16 DLL Port Address: 8888
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :17 GetLocalIPAddress: 192.168.43.221
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :18 Initialize_Network -> Remote Host: 127.0.1.1
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :19 Initialize_Network -> MS-SDR Target IP Address: 127.0.1.1 Port: 8888
+-------------------------------
+17:20:38 Freitag, 19. August 2022
+  :20 timer3_Tick -> Initialize_Network: SUCCESS
+-------------------------------
+17:20:39 Freitag, 19. August 2022
+  :21 timer3_Tick -> RUNNING
+-------------------------------
+17:20:39 Freitag, 19. August 2022
+  :22 timer3_Tick -> RUNNING
+-------------------------------
+17:20:40 Freitag, 19. August 2022
+  :23 timer3_Tick -> RUNNING
+-------------------------------
+17:20:40 Freitag, 19. August 2022
+  :24 Mic_Gain_ScroolBar_mouseenter
+-------------------------------
+17:20:40 Freitag, 19. August 2022
+  :25 Mic_Gain_ScroolBar_mouseleave
+-------------------------------
+17:20:40 Freitag, 19. August 2022
+  :26 timer3_Tick -> RUNNING
+-------------------------------
+17:20:41 Freitag, 19. August 2022
+  :27 timer3_Tick -> RUNNING
+-------------------------------
+17:20:41 Freitag, 19. August 2022
+  :28 timer3_Tick -> Check_Server_Status_Count: 6 Sending CMD_SEND_GUI_STATUS
+-------------------------------
+17:20:41 Freitag, 19. August 2022
+  :29 timer3_Tick -> RUNNING
+-------------------------------
+17:20:42 Freitag, 19. August 2022
+  :30 timer3_Tick -> RUNNING
+-------------------------------
+17:20:42 Freitag, 19. August 2022
+  :31 timer3_Tick -> RUNNING
+-------------------------------
+17:20:43 Freitag, 19. August 2022
+  :32 timer3_Tick -> RUNNING
+-------------------------------
+17:20:43 Freitag, 19. August 2022
+  :33 timer3_Tick -> RUNNING
+-------------------------------
+17:20:44 Freitag, 19. August 2022
+  :34 timer3_Tick -> RUNNING
+-------------------------------
+17:20:44 Freitag, 19. August 2022
+  :35 timer3_Tick -> Check_Server_Status_Count: 6 Sending CMD_SEND_GUI_STATUS
+-------------------------------
+17:20:44 Freitag, 19. August 2022
+  :36 timer3_Tick -> RUNNING
+-------------------------------
+17:20:45 Freitag, 19. August 2022
+  :37 timer3_Tick -> RUNNING
+-------------------------------
+17:20:45 Freitag, 19. August 2022
+  :38 timer3_Tick -> RUNNING
+-------------------------------
+17:20:46 Freitag, 19. August 2022
+  :39 timer3_Tick -> RUNNING
+-------------------------------
+17:20:46 Freitag, 19. August 2022
+  :40 timer3_Tick -> RUNNING
+-------------------------------
+17:20:47 Freitag, 19. August 2022
+  :41 timer3_Tick -> RUNNING
+-------------------------------
+17:20:47 Freitag, 19. August 2022
+  :42 timer3_Tick -> Check_Server_Status_Count: 6 Sending CMD_SEND_GUI_STATUS
+-------------------------------
+17:20:47 Freitag, 19. August 2022
+  :43 timer3_Tick -> RUNNING
+-------------------------------
+17:20:47 Freitag, 19. August 2022
+  :44 timer3_Tick -> FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :45 Master_State_Machine. Filter_High_Index: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :46 Manage_RPI_Controls -> Default_Filters_Configured
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :47 Master_State_Machine. Transceiver_Type: 7
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :48 Finish_Initialization. STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :49 Update_Speaker_listbox. STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :50 Update_Speaker_listbox -> Default Speaker: Lautsprecher (Realtek High Defi Index Value: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :51 Update_Speaker_listbox -> Selected Speaker Lautsprecher (Realtek High DefiIndex Value: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :52 Update_Speaker_listbox. FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :53 Update_Mic_listbox. STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :54 Default Mic: Mikrofon (HD Webcam C270)Index Value: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :55 Selected Mic Mikrofon (HD Webcam C270)Index Value: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :56 Update_Mic_listbox. FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :57 Finish_Initialization. Init_RPi_Settings
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :58 Init_RPi_Settings STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :59 MIC_DIGITAL_VOLUME: 88
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :60 MIC_VOICE_VOLUME: 69
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :61 RIT_STEP: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :62 PEAK_NEEDLE: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :63 PEAK_NEEDLE_DELAY_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :64 PEAK_NEEDLE_COLOR_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :65 TIME_DISPLAY: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :66 METER_MODE: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :67 SPEAKER_ATTN: 5
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :68 DIGITAL_SPEAKER_ATTN: 5
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :69 SPEAKER_VOLUME: 26
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :70 SPEAKER_VOLUME Count: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :71 SPEAKER_VOICE_VOLUME: 60
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :72 MIC_MUTE: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :73 MIC_PRE_GAIN: 3
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :74 PHONE_MIC_PRE_GAIN: 5
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :75 SHUTDOWN: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :76 FAN_CONTROL: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :77 FAN_CONTROL: 30
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :78 METER_HOLD: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :79 QRP_TUNE_POWER: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :80 BAND_CHANGE_TUNE: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :81 SMETER_COLOR: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :82 FREQ_CALIBRATED: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :83 AUTO_ZERO: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :84 1_SMETER_AVERAGE: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :85 ALC_MULTIPLIER: 11
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :86 PROFICIO_B160: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :87 PROFICIO_B80: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :88 PROFICIO_B60: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :89 PROFICIO_B40: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :90 PROFICIO_B30: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :91 PROFICIO_B20: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :92 PROFICIO_B17: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :93 PROFICIO_B15: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :94 PROFICIO_B12: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :95 PROFICIO_B10: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :96 SPEAKER_MUTE: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :97 METER_PREFERRED_MODE: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :98 Set_Gen_Band_Startup called 
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :99 GENERAL_BANK_STARTUP: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :100 GENERAL_BANK_GEN_FREQ: 10000000
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :101 VU_WARNING: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :102 CW_PHONES: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :103 S_METER_DISPLAY: False
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :104 S_METER_HOLD_INDEX: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :105 AUTO_START: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :106 Init_Antenna_Switch. Band: 160, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :107 Init_Antenna_Switch. Band: 80, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :108 Init_Antenna_Switch. Band: 60, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :109 Init_Antenna_Switch. Band: 40, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :110 Init_Antenna_Switch. Band: 30, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :111 Init_Antenna_Switch. Band: 20, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :112 Init_Antenna_Switch. Band: 17, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :113 Init_Antenna_Switch. Band: 15, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :114 Init_Antenna_Switch. Band: 12, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :115 Init_Antenna_Switch. Band: 10, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :116 Init_Antenna_Switch. Band: 2200, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :117 Init_Antenna_Switch. Band: 630, value: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :118 GEMINUS_B2200: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :119 GEMINUS_B630: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :120 AUTO_TUNE_MODE: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :121 AUTO_TUNE_TIME: 3
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :122 MICROPHONE_DIGITAL_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :123 MICROPHONE_PHONE_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :124 SPEAKER_DIGITAL_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :125 SPEAKER_PHONE_INDEX: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :126 MIC_MODE: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :127 Init_CW_Settings STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :128 Get_CW_Params -> ini file: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\Multus_mscc.ini
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :129 CW_Side_Tone_Volume: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :130 CW_Semi_Break_In: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :131 Init_CW_Settings FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :132 Init_RPi_Settings. FINISHED Line_Count: 77
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :133 Init_Power_values.  STARTED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :134 AM Power: 50
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :135 LSB Power: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :136 USB Power: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :137 CW Power: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :138 TUNE Power: 100
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :139 Init_Power_values.  FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :140 Default_CW_Filter_listBox1 Called -> Filter Index: 2, Filter_control.Default_CW_Filter_listBox1: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :141 Select_Freq_Digit_Pointer: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :142 Finish_Initialization. FINISHED
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :143 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b10_favs.ini band_number: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :144 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b10_favs.ini band_number: 0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :145 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b10_favs.ini band_number: 0 record count:1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :146 Load_Favorites_Parameters Called. Band: b10_favs.ini, band_number: 0, record_count: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :147 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b12_favs.ini band_number: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :148 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b12_favs.ini band_number: 1 record count:0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :149 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b15_favs.ini band_number: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :150 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b15_favs.ini band_number: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :151 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b15_favs.ini band_number: 2 record count:1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :152 Load_Favorites_Parameters Called. Band: b15_favs.ini, band_number: 2, record_count: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :153 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b17_favs.ini band_number: 3
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :154 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b17_favs.ini band_number: 3
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :155 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b17_favs.ini band_number: 3
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :156 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b17_favs.ini band_number: 3 record count:2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :157 Load_Favorites_Parameters Called. Band: b17_favs.ini, band_number: 3, record_count: 2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :158 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :159 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :160 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :161 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :162 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :163 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :164 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :165 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b20_favs.ini band_number: 4 record count:6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :166 Load_Favorites_Parameters Called. Band: b20_favs.ini, band_number: 4, record_count: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :167 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b30_favs.ini band_number: 5
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :168 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b30_favs.ini band_number: 5
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :169 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b30_favs.ini band_number: 5 record count:1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :170 Load_Favorites_Parameters Called. Band: b30_favs.ini, band_number: 5, record_count: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :171 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :172 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :173 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :174 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :175 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :176 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b40_favs.ini band_number: 6 record count:4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :177 Load_Favorites_Parameters Called. Band: b40_favs.ini, band_number: 6, record_count: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :178 Load_Favorites_Parameters.  40M tx_hi_cut: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :179 Load_Favorites_Parameters.  40M tx_hi_cut: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :180 Load_Favorites_Parameters.  40M tx_hi_cut: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :181 Load_Favorites_Parameters.  40M tx_hi_cut: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :182 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b60_favs.ini band_number: 7
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :183 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b60_favs.ini band_number: 7 record count:0
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :184 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :185 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :186 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :187 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :188 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :189 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b80_favs.ini band_number: 8 record count:4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :190 Load_Favorites_Parameters Called. Band: b80_favs.ini, band_number: 8, record_count: 4
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :191 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b160_favs.ini band_number: 9
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :192 Load_Favorites(2). File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b160_favs.ini band_number: 9
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :193 Load_Favorites. File Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\b160_favs.ini band_number: 9 record count:1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :194 Load_Favorites_Parameters Called. Band: b160_favs.ini, band_number: 9, record_count: 1
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :195 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :196 Meter Set to QRP mode
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :197 Smeter_controls.meter_colors.led1_off: Color [Black]
+-------------------------------
+17:20:48 Freitag, 19. August 2022
+  :198 Smeter_controls.meter_colors.led2_on: Color [Yellow]
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :199 Manage_Text_Display: display_mode: True
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :200 Manage_Text_Display: display_mode: True
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :201 Post_Initialization STARTED
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :202 Set_Startup_Band. Band: 20
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :203 Manage_20_Band_VFOA called 
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :204 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :205 Set_mode_display called -> Finished
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :206 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :207 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :208 Manage_20_Band_VFOA called 
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :209 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :210 Set_mode_display called -> Finished
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :211 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :212 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :213 Master_State_Machine. Initialized Complete. Manage_Controls_State: 26
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :214 MFC_Initialize.  STARTED
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :215 MFC_Initialize. FINSHED: 1567
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :216 Master_State_Machine. Filter_High_Index: 1
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :217 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:20:49 Freitag, 19. August 2022
+  :218 Update_RPi_Settings
+-------------------------------
+17:22:32 Freitag, 19. August 2022
+  :219 Master_State_Machine. Master_Controls.Power_Calibration_Checked: True
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :220 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b160.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :221 Update_Register. register:0Freq: 1990000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :222 Update_Register. register:1Freq: 1960000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :223 Update_Register. register:2Freq: 1980000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :224 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :225 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b80.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :226 Update_Register. register:0Freq: 3581500
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :227 Update_Register. register:1Freq: 3576000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :228 Update_Register. register:2Freq: 3576000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :229 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :230 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b60.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :231 Update_Register. register:0Freq: 5330500
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :232 Update_Register. register:1Freq: 5357000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :233 Update_Register. register:2Freq: 5403500
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :234 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :235 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b40.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :236 Update_Register. register:0Freq: 7074000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :237 Update_Register. register:1Freq: 7074000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :238 Update_Register. register:2Freq: 7074000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :239 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :240 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b30.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :241 Update_Register. register:0Freq: 10100000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :242 Update_Register. register:1Freq: 10125000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :243 Update_Register. register:2Freq: 10150000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :244 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :245 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b20.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :246 Update_Register. register:0Freq: 14074000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :247 Update_Register. register:1Freq: 14230000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :248 Update_Register. register:2Freq: 14079000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :249 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :250 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b17.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :251 Update_Register. register:0Freq: 18100000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :252 Update_Register. register:1Freq: 18110000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :253 Update_Register. register:2Freq: 18168000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :254 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :255 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b15.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :256 Update_Register. register:0Freq: 21450000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :257 Update_Register. register:1Freq: 21450000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :258 Update_Register. register:2Freq: 21450000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :259 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :260 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b12.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :261 Update_Register. register:0Freq: 24890000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :262 Update_Register. register:1Freq: 24930000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :263 Update_Register. register:2Freq: 24990000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :264 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :265 Init_Band_Stack. Band Stack Name: C:\Users\Hans\AppData\Local\MSCC-PW\.local\share\mscc\band-stack\b10.ini
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :266 Update_Register. register:0Freq: 28074000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :267 Update_Register. register:1Freq: 28500000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :268 Update_Register. register:2Freq: 29000000
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :269 Init_Band_Stack_band -> finished
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :270 Full Size: {Width=816, Height=519}
+-------------------------------
+17:22:36 Freitag, 19. August 2022
+  :271 Post_Initialization FINISHED
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :272 Manage_20_Band_VFOA called 
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :273 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :274 Set_mode_display called -> Finished
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :275 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :276 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :277 Manage_80_Band_VFOA called 
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :278 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :279 Set_mode_display called -> Finished
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :280 meg10 Position is zero
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :281 Manage_80_Band_VFOA -> Current Mode: U
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :282 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :283 Volume_ScroolBar_mouseenter
+-------------------------------
+17:22:40 Freitag, 19. August 2022
+  :284 Volume_ScroolBar_mouseleave
+-------------------------------
+17:23:06 Freitag, 19. August 2022
+  :285 Volume_ScroolBar_mouseenter
+-------------------------------
+17:23:07 Freitag, 19. August 2022
+  :286 Volume_ScroolBar_mouseleave
+-------------------------------
+17:23:07 Freitag, 19. August 2022
+  :287 Volume_ScroolBar_mouseenter
+-------------------------------
+17:23:10 Freitag, 19. August 2022
+  :288 Volume_ScroolBar_mouseleave
+-------------------------------
+17:23:24 Freitag, 19. August 2022
+  :289 Volume_ScroolBar_mouseenter
+-------------------------------
+17:23:24 Freitag, 19. August 2022
+  :290 Volume_ScroolBar_mouseleave
+-------------------------------
+17:23:25 Freitag, 19. August 2022
+  :291 mainmodebutton2 Entered 
+-------------------------------
+17:23:25 Freitag, 19. August 2022
+  :292 mainmodebutton2 -> New Mode: C, Current_band: 80
+-------------------------------
+17:23:25 Freitag, 19. August 2022
+  :293 mainmodebutton2 finished 
+-------------------------------
+17:23:26 Freitag, 19. August 2022
+  :294 mainmodebutton2 Entered 
+-------------------------------
+17:23:26 Freitag, 19. August 2022
+  :295 mainmodebutton2 -> New Mode: A, Current_band: 80
+-------------------------------
+17:23:26 Freitag, 19. August 2022
+  :296 Audio_Digital_button3: 1
+-------------------------------
+17:23:26 Freitag, 19. August 2022
+  :297 mainmodebutton2 finished 
+-------------------------------
+17:23:27 Freitag, 19. August 2022
+  :298 mainmodebutton2 Entered 
+-------------------------------
+17:23:27 Freitag, 19. August 2022
+  :299 mainmodebutton2 -> New Mode: L, Current_band: 80
+-------------------------------
+17:23:27 Freitag, 19. August 2022
+  :300 mainmodebutton2 finished 
+-------------------------------
+17:23:30 Freitag, 19. August 2022
+  :301 Set_Default_Digit: 3
+-------------------------------
+17:23:30 Freitag, 19. August 2022
+  :302 Set_Default_Digit: 3
+-------------------------------
+17:23:35 Freitag, 19. August 2022
+  :303 Volume_ScroolBar_mouseenter
+-------------------------------
+17:23:35 Freitag, 19. August 2022
+  :304 Volume_ScroolBar_mouseleave
+-------------------------------
+17:23:52 Freitag, 19. August 2022
+  :305 Set_Default_Digit: 3
+-------------------------------
+17:23:52 Freitag, 19. August 2022
+  :306 Set_Default_Digit: 3
+-------------------------------
+17:23:52 Freitag, 19. August 2022
+  :307 Set_Default_Digit: 3
+-------------------------------
+17:23:52 Freitag, 19. August 2022
+  :308 Set_Default_Digit: 3
+-------------------------------
+17:23:52 Freitag, 19. August 2022
+  :309 Set_Default_Digit: 3
+-------------------------------
+17:23:53 Freitag, 19. August 2022
+  :310 Set_Default_Digit: 3
+-------------------------------
+17:23:53 Freitag, 19. August 2022
+  :311 Set_Default_Digit: 3
+-------------------------------
+17:23:54 Freitag, 19. August 2022
+  :312 Select_Freq_Digit_Pointer: 2
+-------------------------------
+17:23:54 Freitag, 19. August 2022
+  :313 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:54 Freitag, 19. August 2022
+  :314 meg10 Position is zero
+-------------------------------
+17:23:55 Freitag, 19. August 2022
+  :315 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:55 Freitag, 19. August 2022
+  :316 meg10 Position is zero
+-------------------------------
+17:23:56 Freitag, 19. August 2022
+  :317 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:56 Freitag, 19. August 2022
+  :318 meg10 Position is zero
+-------------------------------
+17:23:56 Freitag, 19. August 2022
+  :319 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:56 Freitag, 19. August 2022
+  :320 meg10 Position is zero
+-------------------------------
+17:23:57 Freitag, 19. August 2022
+  :321 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:57 Freitag, 19. August 2022
+  :322 meg10 Position is zero
+-------------------------------
+17:23:57 Freitag, 19. August 2022
+  :323 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:57 Freitag, 19. August 2022
+  :324 meg10 Position is zero
+-------------------------------
+17:23:58 Freitag, 19. August 2022
+  :325 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:58 Freitag, 19. August 2022
+  :326 meg10 Position is zero
+-------------------------------
+17:23:58 Freitag, 19. August 2022
+  :327 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:58 Freitag, 19. August 2022
+  :328 meg10 Position is zero
+-------------------------------
+17:23:59 Freitag, 19. August 2022
+  :329 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:59 Freitag, 19. August 2022
+  :330 meg10 Position is zero
+-------------------------------
+17:23:59 Freitag, 19. August 2022
+  :331 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:23:59 Freitag, 19. August 2022
+  :332 meg10 Position is zero
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :333 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :334 meg10 Position is zero
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :335 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :336 meg10 Position is zero
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :337 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:00 Freitag, 19. August 2022
+  :338 meg10 Position is zero
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :339 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :340 meg10 Position is zero
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :341 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :342 meg10 Position is zero
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :343 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:01 Freitag, 19. August 2022
+  :344 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :345 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :346 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :347 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :348 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :349 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :350 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :351 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :352 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :353 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :354 meg10 Position is zero
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :355 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:02 Freitag, 19. August 2022
+  :356 meg10 Position is zero
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :357 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :358 meg10 Position is zero
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :359 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :360 meg10 Position is zero
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :361 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :362 meg10 Position is zero
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :363 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :364 meg10 Position is zero
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :365 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:03 Freitag, 19. August 2022
+  :366 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :367 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :368 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :369 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :370 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :371 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :372 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :373 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :374 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :375 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :376 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :377 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :378 meg10 Position is zero
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :379 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:04 Freitag, 19. August 2022
+  :380 meg10 Position is zero
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :381 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :382 meg10 Position is zero
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :383 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :384 meg10 Position is zero
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :385 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :386 meg10 Position is zero
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :387 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :388 meg10 Position is zero
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :389 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:05 Freitag, 19. August 2022
+  :390 meg10 Position is zero
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :391 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :392 meg10 Position is zero
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :393 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :394 meg10 Position is zero
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :395 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:24:06 Freitag, 19. August 2022
+  :396 meg10 Position is zero
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :397 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :398 meg10 Position is zero
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :399 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :400 meg10 Position is zero
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :401 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :402 meg10 Position is zero
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :403 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:08 Freitag, 19. August 2022
+  :404 meg10 Position is zero
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :405 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :406 meg10 Position is zero
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :407 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :408 meg10 Position is zero
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :409 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :410 meg10 Position is zero
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :411 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:09 Freitag, 19. August 2022
+  :412 meg10 Position is zero
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :413 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :414 meg10 Position is zero
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :415 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :416 meg10 Position is zero
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :417 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :418 meg10 Position is zero
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :419 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:11 Freitag, 19. August 2022
+  :420 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :421 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :422 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :423 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :424 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :425 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :426 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :427 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :428 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :429 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :430 meg10 Position is zero
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :431 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:12 Freitag, 19. August 2022
+  :432 meg10 Position is zero
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :433 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :434 meg10 Position is zero
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :435 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :436 meg10 Position is zero
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :437 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :438 meg10 Position is zero
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :439 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :440 meg10 Position is zero
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :441 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:13 Freitag, 19. August 2022
+  :442 meg10 Position is zero
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :443 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :444 meg10 Position is zero
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :445 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :446 meg10 Position is zero
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :447 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :448 meg10 Position is zero
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :449 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:24:14 Freitag, 19. August 2022
+  :450 meg10 Position is zero
+-------------------------------
+17:26:48 Freitag, 19. August 2022
+  :451 Set_Default_Digit: 3
+-------------------------------
+17:26:48 Freitag, 19. August 2022
+  :452 Set_Default_Digit: 3
+-------------------------------
+17:26:48 Freitag, 19. August 2022
+  :453 Set_Default_Digit: 3
+-------------------------------
+17:26:48 Freitag, 19. August 2022
+  :454 Microphone_textBox2_mouseenter
+-------------------------------
+17:26:48 Freitag, 19. August 2022
+  :455 Microphone_textBox2_mouseleave
+-------------------------------
+17:26:50 Freitag, 19. August 2022
+  :456 Select_Freq_Digit_Pointer: 3
+-------------------------------
+17:26:50 Freitag, 19. August 2022
+  :457 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:26:50 Freitag, 19. August 2022
+  :458 meg10 Position is zero
+-------------------------------
+17:26:51 Freitag, 19. August 2022
+  :459 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:26:51 Freitag, 19. August 2022
+  :460 meg10 Position is zero
+-------------------------------
+17:26:52 Freitag, 19. August 2022
+  :461 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:52 Freitag, 19. August 2022
+  :462 meg10 Position is zero
+-------------------------------
+17:26:52 Freitag, 19. August 2022
+  :463 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:52 Freitag, 19. August 2022
+  :464 meg10 Position is zero
+-------------------------------
+17:26:53 Freitag, 19. August 2022
+  :465 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:26:53 Freitag, 19. August 2022
+  :466 meg10 Position is zero
+-------------------------------
+17:26:53 Freitag, 19. August 2022
+  :467 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:53 Freitag, 19. August 2022
+  :468 meg10 Position is zero
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :469 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :470 meg10 Position is zero
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :471 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :472 meg10 Position is zero
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :473 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:54 Freitag, 19. August 2022
+  :474 meg10 Position is zero
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :475 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :476 meg10 Position is zero
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :477 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :478 meg10 Position is zero
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :479 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:55 Freitag, 19. August 2022
+  :480 meg10 Position is zero
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :481 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :482 meg10 Position is zero
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :483 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :484 meg10 Position is zero
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :485 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :486 meg10 Position is zero
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :487 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:56 Freitag, 19. August 2022
+  :488 meg10 Position is zero
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :489 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :490 meg10 Position is zero
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :491 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :492 meg10 Position is zero
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :493 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :494 meg10 Position is zero
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :495 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:57 Freitag, 19. August 2022
+  :496 meg10 Position is zero
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :497 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :498 meg10 Position is zero
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :499 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :500 meg10 Position is zero
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :501 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :502 meg10 Position is zero
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :503 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:58 Freitag, 19. August 2022
+  :504 meg10 Position is zero
+-------------------------------
+17:26:59 Freitag, 19. August 2022
+  :505 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:59 Freitag, 19. August 2022
+  :506 meg10 Position is zero
+-------------------------------
+17:26:59 Freitag, 19. August 2022
+  :507 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:26:59 Freitag, 19. August 2022
+  :508 meg10 Position is zero
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :509 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :510 meg10 Position is zero
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :511 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :512 meg10 Position is zero
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :513 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:00 Freitag, 19. August 2022
+  :514 meg10 Position is zero
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :515 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :516 meg10 Position is zero
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :517 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :518 meg10 Position is zero
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :519 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :520 meg10 Position is zero
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :521 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :522 meg10 Position is zero
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :523 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:01 Freitag, 19. August 2022
+  :524 meg10 Position is zero
+-------------------------------
+17:27:02 Freitag, 19. August 2022
+  :525 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:02 Freitag, 19. August 2022
+  :526 meg10 Position is zero
+-------------------------------
+17:27:02 Freitag, 19. August 2022
+  :527 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:02 Freitag, 19. August 2022
+  :528 meg10 Position is zero
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :529 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :530 meg10 Position is zero
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :531 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :532 meg10 Position is zero
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :533 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :534 meg10 Position is zero
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :535 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :536 meg10 Position is zero
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :537 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:03 Freitag, 19. August 2022
+  :538 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :539 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :540 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :541 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :542 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :543 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :544 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :545 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :546 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :547 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :548 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :549 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :550 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :551 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :552 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :553 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :554 meg10 Position is zero
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :555 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:04 Freitag, 19. August 2022
+  :556 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :557 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :558 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :559 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :560 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :561 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :562 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :563 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :564 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :565 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :566 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :567 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :568 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :569 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :570 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :571 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :572 meg10 Position is zero
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :573 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:05 Freitag, 19. August 2022
+  :574 meg10 Position is zero
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :575 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :576 meg10 Position is zero
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :577 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :578 meg10 Position is zero
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :579 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :580 meg10 Position is zero
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :581 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :582 meg10 Position is zero
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :583 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:06 Freitag, 19. August 2022
+  :584 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :585 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :586 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :587 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :588 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :589 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :590 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :591 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :592 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :593 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :594 meg10 Position is zero
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :595 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:07 Freitag, 19. August 2022
+  :596 meg10 Position is zero
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :597 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :598 meg10 Position is zero
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :599 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :600 meg10 Position is zero
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :601 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :602 meg10 Position is zero
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :603 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:08 Freitag, 19. August 2022
+  :604 meg10 Position is zero
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :605 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :606 meg10 Position is zero
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :607 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :608 meg10 Position is zero
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :609 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:09 Freitag, 19. August 2022
+  :610 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :611 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :612 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :613 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :614 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :615 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :616 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :617 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :618 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :619 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :620 meg10 Position is zero
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :621 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:10 Freitag, 19. August 2022
+  :622 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :623 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :624 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :625 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :626 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :627 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :628 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :629 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :630 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :631 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :632 meg10 Position is zero
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :633 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:11 Freitag, 19. August 2022
+  :634 meg10 Position is zero
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :635 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :636 meg10 Position is zero
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :637 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :638 meg10 Position is zero
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :639 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:12 Freitag, 19. August 2022
+  :640 meg10 Position is zero
+-------------------------------
+17:27:13 Freitag, 19. August 2022
+  :641 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:13 Freitag, 19. August 2022
+  :642 meg10 Position is zero
+-------------------------------
+17:27:13 Freitag, 19. August 2022
+  :643 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:13 Freitag, 19. August 2022
+  :644 meg10 Position is zero
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :645 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :646 meg10 Position is zero
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :647 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :648 meg10 Position is zero
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :649 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:14 Freitag, 19. August 2022
+  :650 meg10 Position is zero
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :651 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :652 meg10 Position is zero
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :653 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :654 meg10 Position is zero
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :655 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :656 meg10 Position is zero
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :657 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :658 meg10 Position is zero
+-------------------------------
+17:27:15 Freitag, 19. August 2022
+  :659 Set_Default_Digit: 2
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :660 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :661 meg10 Position is zero
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :662 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :663 meg10 Position is zero
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :664 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:16 Freitag, 19. August 2022
+  :665 meg10 Position is zero
+-------------------------------
+17:27:17 Freitag, 19. August 2022
+  :666 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:17 Freitag, 19. August 2022
+  :667 meg10 Position is zero
+-------------------------------
+17:27:17 Freitag, 19. August 2022
+  :668 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:17 Freitag, 19. August 2022
+  :669 meg10 Position is zero
+-------------------------------
+17:27:18 Freitag, 19. August 2022
+  :670 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:18 Freitag, 19. August 2022
+  :671 meg10 Position is zero
+-------------------------------
+17:27:18 Freitag, 19. August 2022
+  :672 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:18 Freitag, 19. August 2022
+  :673 meg10 Position is zero
+-------------------------------
+17:27:19 Freitag, 19. August 2022
+  :674 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:19 Freitag, 19. August 2022
+  :675 meg10 Position is zero
+-------------------------------
+17:27:19 Freitag, 19. August 2022
+  :676 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:19 Freitag, 19. August 2022
+  :677 meg10 Position is zero
+-------------------------------
+17:27:20 Freitag, 19. August 2022
+  :678 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:20 Freitag, 19. August 2022
+  :679 meg10 Position is zero
+-------------------------------
+17:27:21 Freitag, 19. August 2022
+  :680 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:21 Freitag, 19. August 2022
+  :681 meg10 Position is zero
+-------------------------------
+17:27:22 Freitag, 19. August 2022
+  :682 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:22 Freitag, 19. August 2022
+  :683 meg10 Position is zero
+-------------------------------
+17:27:22 Freitag, 19. August 2022
+  :684 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:27:22 Freitag, 19. August 2022
+  :685 meg10 Position is zero
+-------------------------------
+17:27:24 Freitag, 19. August 2022
+  :686 Set_Default_Digit: 2
+-------------------------------
+17:27:24 Freitag, 19. August 2022
+  :687 Set_Default_Digit: 2
+-------------------------------
+17:27:25 Freitag, 19. August 2022
+  :688 Set_Default_Digit: 2
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :689 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :690 meg10 Position is zero
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :691 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :692 meg10 Position is zero
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :693 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:27 Freitag, 19. August 2022
+  :694 meg10 Position is zero
+-------------------------------
+17:27:28 Freitag, 19. August 2022
+  :695 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:28 Freitag, 19. August 2022
+  :696 meg10 Position is zero
+-------------------------------
+17:27:29 Freitag, 19. August 2022
+  :697 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:27:29 Freitag, 19. August 2022
+  :698 meg10 Position is zero
+-------------------------------
+17:29:24 Freitag, 19. August 2022
+  :699 Set_Default_Digit: 2
+-------------------------------
+17:29:24 Freitag, 19. August 2022
+  :700 Set_Default_Digit: 2
+-------------------------------
+17:29:25 Freitag, 19. August 2022
+  :701 Set_Default_Digit: 2
+-------------------------------
+17:29:25 Freitag, 19. August 2022
+  :702 Volume_ScroolBar_mouseenter
+-------------------------------
+17:29:25 Freitag, 19. August 2022
+  :703 Volume_ScroolBar_mouseleave
+-------------------------------
+17:30:16 Freitag, 19. August 2022
+  :704 Volume_ScroolBar_mouseenter
+-------------------------------
+17:30:16 Freitag, 19. August 2022
+  :705 Volume_ScroolBar_mouseleave
+-------------------------------
+17:30:16 Freitag, 19. August 2022
+  :706 Volume_textBox2_Enter
+-------------------------------
+17:30:16 Freitag, 19. August 2022
+  :707 Volume_textBox2_Leave
+-------------------------------
+17:30:16 Freitag, 19. August 2022
+  :708 Set_Default_Digit: 2
+-------------------------------
+17:30:19 Freitag, 19. August 2022
+  :709 Set_Default_Digit: 2
+-------------------------------
+17:30:19 Freitag, 19. August 2022
+  :710 Set_Default_Digit: 2
+-------------------------------
+17:30:20 Freitag, 19. August 2022
+  :711 Main_Tab_Leave -> Entered
+-------------------------------
+17:30:20 Freitag, 19. August 2022
+  :712 Main_Tab_Leave -> Finished
+-------------------------------
+17:30:20 Freitag, 19. August 2022
+  :713 TX_Tab_Enter. Fortis_Devices: 0
+-------------------------------
+17:30:25 Freitag, 19. August 2022
+  :714 Default_High_Cut_listBox1 Called -> Filter Index: 2, Filter_control.Filter_TX_High_Index: 2
+-------------------------------
+17:30:27 Freitag, 19. August 2022
+  :715 Default_Low_Cut_listBox1 Called -> Filter Index: 1, Filter_control.Default_Filter_Low_Index: 1
+-------------------------------
+17:30:28 Freitag, 19. August 2022
+  :716 Default_Low_Cut_listBox1 Called -> Filter Index: 2, Filter_control.Default_Filter_Low_Index: 2
+-------------------------------
+17:30:33 Freitag, 19. August 2022
+  :717 Main_Tab_Enter -> Entered
+-------------------------------
+17:30:33 Freitag, 19. August 2022
+  :718 Main_Tab_Enter -> Finished
+-------------------------------
+17:30:33 Freitag, 19. August 2022
+  :719 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:30:33 Freitag, 19. August 2022
+  :720 Update_RPi_Settings
+-------------------------------
+17:30:34 Freitag, 19. August 2022
+  :721 Volume_ScroolBar_mouseenter
+-------------------------------
+17:30:34 Freitag, 19. August 2022
+  :722 Volume_ScroolBar_mouseleave
+-------------------------------
+17:30:34 Freitag, 19. August 2022
+  :723 Microphone_textBox2_mouseenter
+-------------------------------
+17:30:34 Freitag, 19. August 2022
+  :724 Microphone_textBox2_mouseleave
+-------------------------------
+17:30:35 Freitag, 19. August 2022
+  :725 High_Cut_button8 -> filter_index_local: 0
+-------------------------------
+17:30:35 Freitag, 19. August 2022
+  :726 High_Cut_button8 -> Finished -> Filter Index: 0
+-------------------------------
+17:30:35 Freitag, 19. August 2022
+  :727 Master_State_Machine. Filter_High_Index: 0
+-------------------------------
+17:30:37 Freitag, 19. August 2022
+  :728 High_Cut_button8 -> filter_index_local: 4
+-------------------------------
+17:30:37 Freitag, 19. August 2022
+  :729 High_Cut_button8 -> Finished -> Filter Index: 4
+-------------------------------
+17:30:37 Freitag, 19. August 2022
+  :730 Master_State_Machine. Filter_High_Index: 4
+-------------------------------
+17:30:38 Freitag, 19. August 2022
+  :731 High_Cut_button8 -> filter_index_local: 3
+-------------------------------
+17:30:38 Freitag, 19. August 2022
+  :732 High_Cut_button8 -> Finished -> Filter Index: 3
+-------------------------------
+17:30:39 Freitag, 19. August 2022
+  :733 Master_State_Machine. Filter_High_Index: 3
+-------------------------------
+17:30:39 Freitag, 19. August 2022
+  :734 High_Cut_button8 -> filter_index_local: 2
+-------------------------------
+17:30:39 Freitag, 19. August 2022
+  :735 High_Cut_button8 -> Finished -> Filter Index: 2
+-------------------------------
+17:30:40 Freitag, 19. August 2022
+  :736 Master_State_Machine. Filter_High_Index: 2
+-------------------------------
+17:30:42 Freitag, 19. August 2022
+  :737 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 1
+-------------------------------
+17:30:44 Freitag, 19. August 2022
+  :738 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 0
+-------------------------------
+17:30:45 Freitag, 19. August 2022
+  :739 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 2
+-------------------------------
+17:30:45 Freitag, 19. August 2022
+  :740 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 1
+-------------------------------
+17:31:04 Freitag, 19. August 2022
+  :741 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 0
+-------------------------------
+17:31:06 Freitag, 19. August 2022
+  :742 CW_Filter_button8_Click -> Filter_control.CW_Filter_Index: 2
+-------------------------------
+17:33:11 Freitag, 19. August 2022
+  :743 Set_Default_Digit: 2
+-------------------------------
+17:33:12 Freitag, 19. August 2022
+  :744 Set_Default_Digit: 2
+-------------------------------
+17:33:12 Freitag, 19. August 2022
+  :745 Set_Default_Digit: 2
+-------------------------------
+17:33:12 Freitag, 19. August 2022
+  :746 Set_Default_Digit: 2
+-------------------------------
+17:33:14 Freitag, 19. August 2022
+  :747 Main_Tab_Leave -> Entered
+-------------------------------
+17:33:14 Freitag, 19. August 2022
+  :748 Main_Tab_Leave -> Finished
+-------------------------------
+17:33:15 Freitag, 19. August 2022
+  :749 freqcaltab_Enter -> entered
+-------------------------------
+17:33:30 Freitag, 19. August 2022
+  :750 IQ_groupBox3_Enter -> Called
+-------------------------------
+17:33:31 Freitag, 19. August 2022
+  :751 Master_State_Machine -> IQ_Controls.RPi.Calibration_Slider_Value: -105
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :752 freqcaltab_Leave -> Entered
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :753753 Tab index is 3
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :754 Manage_80_Band_VFOA called 
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :755 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: L
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :756 Set_mode_display called -> Finished
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :757 meg10 Position is zero
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :758 Manage_80_Band_VFOA -> Current Mode: L
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :759 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :760 reset: True
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :761 freqcaltab_Leave -> Finished
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :762 Main_Tab_Enter -> Entered
+-------------------------------
+17:33:48 Freitag, 19. August 2022
+  :763 Main_Tab_Enter -> Finished
+-------------------------------
+17:33:49 Freitag, 19. August 2022
+  :764 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:33:49 Freitag, 19. August 2022
+  :765 Update_RPi_Settings
+-------------------------------
+17:37:29 Freitag, 19. August 2022
+  :766 Volume_ScroolBar_mouseenter
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :767 Volume_ScroolBar_mouseleave
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :768 Volume_ScroolBar_mouseenter
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :769 Volume_ScroolBar_mouseleave
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :770 Set_Default_Digit: 2
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :771 Set_Default_Digit: 2
+-------------------------------
+17:37:30 Freitag, 19. August 2022
+  :772 Set_Default_Digit: 2
+-------------------------------
+17:37:32 Freitag, 19. August 2022
+  :773 Select_Freq_Digit_Pointer: 3
+-------------------------------
+17:37:34 Freitag, 19. August 2022
+  :774 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:37:34 Freitag, 19. August 2022
+  :775 meg10 Position is zero
+-------------------------------
+17:37:38 Freitag, 19. August 2022
+  :776 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:37:38 Freitag, 19. August 2022
+  :777 meg10 Position is zero
+-------------------------------
+17:38:51 Freitag, 19. August 2022
+  :778 Set_Default_Digit: 2
+-------------------------------
+17:38:51 Freitag, 19. August 2022
+  :779 Set_Default_Digit: 2
+-------------------------------
+17:38:51 Freitag, 19. August 2022
+  :780 Set_Default_Digit: 2
+-------------------------------
+17:38:51 Freitag, 19. August 2022
+  :781 Set_Default_Digit: 2
+-------------------------------
+17:38:51 Freitag, 19. August 2022
+  :782 Set_Default_Digit: 2
+-------------------------------
+17:38:52 Freitag, 19. August 2022
+  :783 Set_Default_Digit: 2
+-------------------------------
+17:38:52 Freitag, 19. August 2022
+  :784 Set_Default_Digit: 2
+-------------------------------
+17:39:15 Freitag, 19. August 2022
+  :785 Set_Default_Digit: 2
+-------------------------------
+17:39:16 Freitag, 19. August 2022
+  :786 Set_Default_Digit: 2
+-------------------------------
+17:39:16 Freitag, 19. August 2022
+  :787 Set_Default_Digit: 2
+-------------------------------
+17:39:17 Freitag, 19. August 2022
+  :788 Select_Freq_Digit_Pointer: 3
+-------------------------------
+17:39:18 Freitag, 19. August 2022
+  :789 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:39:18 Freitag, 19. August 2022
+  :790 meg10 Position is zero
+-------------------------------
+17:39:18 Freitag, 19. August 2022
+  :791 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:39:18 Freitag, 19. August 2022
+  :792 meg10 Position is zero
+-------------------------------
+17:39:19 Freitag, 19. August 2022
+  :793 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:39:19 Freitag, 19. August 2022
+  :794 meg10 Position is zero
+-------------------------------
+17:39:21 Freitag, 19. August 2022
+  :795 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:39:21 Freitag, 19. August 2022
+  :796 meg10 Position is zero
+-------------------------------
+17:41:04 Freitag, 19. August 2022
+  :797 Set_Default_Digit: 2
+-------------------------------
+17:41:04 Freitag, 19. August 2022
+  :798 Set_Default_Digit: 2
+-------------------------------
+17:41:04 Freitag, 19. August 2022
+  :799 Set_Default_Digit: 2
+-------------------------------
+17:41:04 Freitag, 19. August 2022
+  :800 Set_Default_Digit: 2
+-------------------------------
+17:41:09 Freitag, 19. August 2022
+  :801 Mic_Gain_ScroolBar_mouseenter
+-------------------------------
+17:41:09 Freitag, 19. August 2022
+  :802 Mic_Gain_ScroolBar_mouseleave
+-------------------------------
+17:41:09 Freitag, 19. August 2022
+  :803 Mic_Gain_ScroolBar_mouseenter
+-------------------------------
+17:41:09 Freitag, 19. August 2022
+  :804 Mic_Gain_ScroolBar_mouseleave
+-------------------------------
+17:41:14 Freitag, 19. August 2022
+  :805 Main_Tab_Leave -> Entered
+-------------------------------
+17:41:14 Freitag, 19. August 2022
+  :806 Main_Tab_Leave -> Finished
+-------------------------------
+17:42:55 Freitag, 19. August 2022
+  :807 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:42:55 Freitag, 19. August 2022
+  :808 Update_RPi_Settings
+-------------------------------
+17:43:05 Freitag, 19. August 2022
+  :809 Main_Tab_Enter -> Entered
+-------------------------------
+17:43:06 Freitag, 19. August 2022
+  :810 Main_Tab_Enter -> Finished
+-------------------------------
+17:43:06 Freitag, 19. August 2022
+  :811 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:43:06 Freitag, 19. August 2022
+  :812 Update_RPi_Settings
+-------------------------------
+17:44:11 Freitag, 19. August 2022
+  :813 Set_Default_Digit: 2
+-------------------------------
+17:44:15 Freitag, 19. August 2022
+  :814 Update_Frequency. STARTED
+-------------------------------
+17:44:15 Freitag, 19. August 2022
+  :815 meg10 Position is zero
+-------------------------------
+17:44:15 Freitag, 19. August 2022
+  :816 Update_Frequency. FINISHED
+-------------------------------
+17:44:29 Freitag, 19. August 2022
+  :817 Set_Default_Digit: 2
+-------------------------------
+17:44:29 Freitag, 19. August 2022
+  :818 Set_Default_Digit: 2
+-------------------------------
+17:44:29 Freitag, 19. August 2022
+  :819 Set_Default_Digit: 2
+-------------------------------
+17:44:30 Freitag, 19. August 2022
+  :820 Select_Freq_Digit_Pointer: 4
+-------------------------------
+17:44:31 Freitag, 19. August 2022
+  :821 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:31 Freitag, 19. August 2022
+  :822 meg10 Position is zero
+-------------------------------
+17:44:32 Freitag, 19. August 2022
+  :823 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:32 Freitag, 19. August 2022
+  :824 meg10 Position is zero
+-------------------------------
+17:44:33 Freitag, 19. August 2022
+  :825 Set_Default_Digit: 1
+-------------------------------
+17:44:34 Freitag, 19. August 2022
+  :826 Select_Freq_Digit_Pointer: 3
+-------------------------------
+17:44:34 Freitag, 19. August 2022
+  :827 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:44:34 Freitag, 19. August 2022
+  :828 meg10 Position is zero
+-------------------------------
+17:44:35 Freitag, 19. August 2022
+  :829 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:44:35 Freitag, 19. August 2022
+  :830 meg10 Position is zero
+-------------------------------
+17:44:35 Freitag, 19. August 2022
+  :831 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:44:35 Freitag, 19. August 2022
+  :832 meg10 Position is zero
+-------------------------------
+17:44:36 Freitag, 19. August 2022
+  :833 Set_Default_Digit: 2
+-------------------------------
+17:44:37 Freitag, 19. August 2022
+  :834 Set_Default_Digit: 2
+-------------------------------
+17:44:37 Freitag, 19. August 2022
+  :835 Set_Default_Digit: 2
+-------------------------------
+17:44:38 Freitag, 19. August 2022
+  :836 Set_Default_Digit: 2
+-------------------------------
+17:44:38 Freitag, 19. August 2022
+  :837 Set_Default_Digit: 2
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :838 Select_Freq_Digit_Pointer: 2
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :839 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :840 meg10 Position is zero
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :841 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :842 meg10 Position is zero
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :843 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:39 Freitag, 19. August 2022
+  :844 meg10 Position is zero
+-------------------------------
+17:44:40 Freitag, 19. August 2022
+  :845 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:40 Freitag, 19. August 2022
+  :846 meg10 Position is zero
+-------------------------------
+17:44:40 Freitag, 19. August 2022
+  :847 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:44:40 Freitag, 19. August 2022
+  :848 meg10 Position is zero
+-------------------------------
+17:44:41 Freitag, 19. August 2022
+  :849 Set_Default_Digit: 3
+-------------------------------
+17:47:02 Freitag, 19. August 2022
+  :850 PTT Entered (button1)
+-------------------------------
+17:47:02 Freitag, 19. August 2022
+  :851 PTT finished (button1) 
+-------------------------------
+17:47:03 Freitag, 19. August 2022
+  :852 Manage_Text_Display: display_mode: True
+-------------------------------
+17:47:03 Freitag, 19. August 2022
+  :853 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:47:03 Freitag, 19. August 2022
+  :854 Meter Set to QRP mode
+-------------------------------
+17:47:03 Freitag, 19. August 2022
+  :855 Manage_Text_Display: display_mode: False
+-------------------------------
+17:47:04 Freitag, 19. August 2022
+  :856 PTT Entered (button1)
+-------------------------------
+17:47:04 Freitag, 19. August 2022
+  :857 PTT finished (button1) 
+-------------------------------
+17:47:04 Freitag, 19. August 2022
+  :858 Manage_Text_Display: display_mode: True
+-------------------------------
+17:47:04 Freitag, 19. August 2022
+  :859 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:47:04 Freitag, 19. August 2022
+  :860 Update_RPi_Settings
+-------------------------------
+17:48:18 Freitag, 19. August 2022
+  :861 Volume_textBox2_Enter
+-------------------------------
+17:48:18 Freitag, 19. August 2022
+  :862 Volume_textBox2_Leave
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :863 Manage_80_Band_VFOA called 
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :864 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: L
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :865 Set_mode_display called -> Finished
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :866 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :867 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :868 meg10 Position is zero
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :869 Manage_80_Band_VFOA -> Current Mode: L
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :870 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :871 Manage_20_Band_VFOA called 
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :872 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :873 Set_mode_display called -> Finished
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :874 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :875 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :876 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:48:27 Freitag, 19. August 2022
+  :877 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:48:28 Freitag, 19. August 2022
+  :878 Master_State_Machine. Filter_High_Index: 1
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :879 buttTune_Click
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :880 buttTune_Click -> finished 
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :881 Manage_Text_Display: display_mode: True
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :882 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :883 Meter Set to QRP mode
+-------------------------------
+17:48:30 Freitag, 19. August 2022
+  :884 Manage_Text_Display: display_mode: False
+-------------------------------
+17:48:33 Freitag, 19. August 2022
+  :885 buttTune_Click
+-------------------------------
+17:48:33 Freitag, 19. August 2022
+  :886 Tune -> Current Band: 20 Current Mode Number: 2
+-------------------------------
+17:48:33 Freitag, 19. August 2022
+  :887 buttTune_Click -> finished 
+-------------------------------
+17:48:33 Freitag, 19. August 2022
+  :888 Manage_Text_Display: display_mode: True
+-------------------------------
+17:48:44 Freitag, 19. August 2022
+  :889 Volume_ScroolBar_mouseenter
+-------------------------------
+17:48:45 Freitag, 19. August 2022
+  :890 Volume_ScroolBar_mouseleave
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :891 Manage_20_Band_VFOA called 
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :892 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :893 Set_mode_display called -> Finished
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :894 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :895 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :896 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :897 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :898 Manage_80_Band_VFOA called 
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :899 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: L
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :900 Set_mode_display called -> Finished
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :901 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :902 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :903 meg10 Position is zero
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :904 Manage_80_Band_VFOA -> Current Mode: L
+-------------------------------
+17:48:46 Freitag, 19. August 2022
+  :905 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:48:47 Freitag, 19. August 2022
+  :906 Master_State_Machine. Filter_High_Index: 2
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :907 buttTune_Click
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :908 buttTune_Click -> finished 
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :909 Manage_Text_Display: display_mode: True
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :910 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :911 Meter Set to QRP mode
+-------------------------------
+17:48:49 Freitag, 19. August 2022
+  :912 Manage_Text_Display: display_mode: False
+-------------------------------
+17:48:52 Freitag, 19. August 2022
+  :913 buttTune_Click
+-------------------------------
+17:48:52 Freitag, 19. August 2022
+  :914 Tune -> Current Band: 80 Current Mode Number: 1
+-------------------------------
+17:48:52 Freitag, 19. August 2022
+  :915 buttTune_Click -> finished 
+-------------------------------
+17:48:52 Freitag, 19. August 2022
+  :916 Manage_Text_Display: display_mode: True
+-------------------------------
+17:50:13 Freitag, 19. August 2022
+  :917 Set_Default_Digit: 3
+-------------------------------
+17:50:34 Freitag, 19. August 2022
+  :918 Volume_ScroolBar_mouseenter
+-------------------------------
+17:50:34 Freitag, 19. August 2022
+  :919 Volume_ScroolBar_mouseleave
+-------------------------------
+17:50:35 Freitag, 19. August 2022
+  :920 Set_Default_Digit: 3
+-------------------------------
+17:50:37 Freitag, 19. August 2022
+  :921 Select_Freq_Digit_Pointer: 4
+-------------------------------
+17:50:38 Freitag, 19. August 2022
+  :922 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:50:38 Freitag, 19. August 2022
+  :923 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:50:38 Freitag, 19. August 2022
+  :924 Zero_Frequency -> FreqDigit: 4 Remainder: 6000
+-------------------------------
+17:50:38 Freitag, 19. August 2022
+  :925 meg10 Position is zero
+-------------------------------
+17:50:41 Freitag, 19. August 2022
+  :926 Set_Default_Digit: 1
+-------------------------------
+17:50:41 Freitag, 19. August 2022
+  :927 Set_Default_Digit: 1
+-------------------------------
+17:50:41 Freitag, 19. August 2022
+  :928 Microphone_textBox2_mouseenter
+-------------------------------
+17:50:41 Freitag, 19. August 2022
+  :929 Microphone_textBox2_mouseleave
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :930 mainmodebutton2 Entered 
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :931 mainmodebutton2 -> New Mode: U, Current_band: 80
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :932 mainmodebutton2 finished 
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :933 mainmodebutton2 Entered 
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :934 mainmodebutton2 -> New Mode: C, Current_band: 80
+-------------------------------
+17:50:45 Freitag, 19. August 2022
+  :935 mainmodebutton2 finished 
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :936 PTT Entered (button1)
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :937 PTT finished (button1) 
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :938 Manage_Text_Display: display_mode: True
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :939 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :940 Meter Set to QRP mode
+-------------------------------
+17:50:54 Freitag, 19. August 2022
+  :941 Manage_Text_Display: display_mode: False
+-------------------------------
+17:50:57 Freitag, 19. August 2022
+  :942 PTT Entered (button1)
+-------------------------------
+17:50:57 Freitag, 19. August 2022
+  :943 PTT finished (button1) 
+-------------------------------
+17:50:57 Freitag, 19. August 2022
+  :944 Manage_Text_Display: display_mode: True
+-------------------------------
+17:50:57 Freitag, 19. August 2022
+  :945 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:50:57 Freitag, 19. August 2022
+  :946 Update_RPi_Settings
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :947 PTT Entered (button1)
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :948 PTT finished (button1) 
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :949 Manage_Text_Display: display_mode: True
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :950 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :951 Meter Set to QRP mode
+-------------------------------
+17:50:59 Freitag, 19. August 2022
+  :952 Manage_Text_Display: display_mode: False
+-------------------------------
+17:51:01 Freitag, 19. August 2022
+  :953 PTT Entered (button1)
+-------------------------------
+17:51:01 Freitag, 19. August 2022
+  :954 PTT finished (button1) 
+-------------------------------
+17:51:01 Freitag, 19. August 2022
+  :955 Manage_Text_Display: display_mode: True
+-------------------------------
+17:51:02 Freitag, 19. August 2022
+  :956 Master_State_Machine. RPi_Update_Flag: True
+-------------------------------
+17:51:02 Freitag, 19. August 2022
+  :957 Update_RPi_Settings
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :958 Set_Default_Digit: 1
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :959 Set_Default_Digit: 1
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :960 Set_Default_Digit: 1
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :961 Set_Default_Digit: 1
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :962 Set_Default_Digit: 1
+-------------------------------
+17:51:03 Freitag, 19. August 2022
+  :963 Set_Default_Digit: 1
+-------------------------------
+17:51:04 Freitag, 19. August 2022
+  :964 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:04 Freitag, 19. August 2022
+  :965 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:04 Freitag, 19. August 2022
+  :966 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:04 Freitag, 19. August 2022
+  :967 meg10 Position is zero
+-------------------------------
+17:51:05 Freitag, 19. August 2022
+  :968 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:05 Freitag, 19. August 2022
+  :969 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:05 Freitag, 19. August 2022
+  :970 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:05 Freitag, 19. August 2022
+  :971 meg10 Position is zero
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :972 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :973 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :974 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :975 meg10 Position is zero
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :976 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :977 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :978 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:06 Freitag, 19. August 2022
+  :979 meg10 Position is zero
+-------------------------------
+17:51:07 Freitag, 19. August 2022
+  :980 Set_Default_Digit: 1
+-------------------------------
+17:51:07 Freitag, 19. August 2022
+  :981 Set_Default_Digit: 1
+-------------------------------
+17:51:07 Freitag, 19. August 2022
+  :982 Set_Default_Digit: 1
+-------------------------------
+17:51:08 Freitag, 19. August 2022
+  :983 mainmodebutton2 Entered 
+-------------------------------
+17:51:08 Freitag, 19. August 2022
+  :984 mainmodebutton2 -> New Mode: A, Current_band: 80
+-------------------------------
+17:51:08 Freitag, 19. August 2022
+  :985 Audio_Digital_button3: 1
+-------------------------------
+17:51:08 Freitag, 19. August 2022
+  :986 mainmodebutton2 finished 
+-------------------------------
+17:51:09 Freitag, 19. August 2022
+  :987 mainmodebutton2 Entered 
+-------------------------------
+17:51:09 Freitag, 19. August 2022
+  :988 mainmodebutton2 -> New Mode: L, Current_band: 80
+-------------------------------
+17:51:09 Freitag, 19. August 2022
+  :989 mainmodebutton2 finished 
+-------------------------------
+17:51:11 Freitag, 19. August 2022
+  :990 Set_Default_Digit: 1
+-------------------------------
+17:51:11 Freitag, 19. August 2022
+  :991 Set_Default_Digit: 1
+-------------------------------
+17:51:11 Freitag, 19. August 2022
+  :992 Set_Default_Digit: 1
+-------------------------------
+17:51:11 Freitag, 19. August 2022
+  :993 Select_Freq_Digit_Pointer: 4
+-------------------------------
+17:51:12 Freitag, 19. August 2022
+  :994 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:12 Freitag, 19. August 2022
+  :995 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:12 Freitag, 19. August 2022
+  :996 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:12 Freitag, 19. August 2022
+  :997 meg10 Position is zero
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :998 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :999 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1000 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1001 meg10 Position is zero
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1002 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1003 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1004 Zero_Frequency -> FreqDigit: 4 Remainder: 0
+-------------------------------
+17:51:13 Freitag, 19. August 2022
+  :1005 meg10 Position is zero
+-------------------------------
+17:51:14 Freitag, 19. August 2022
+  :1006 Set_Default_Digit: 1
+-------------------------------
+17:51:14 Freitag, 19. August 2022
+  :1007 Set_Default_Digit: 1
+-------------------------------
+17:51:15 Freitag, 19. August 2022
+  :1008 Set_Default_Digit: 1
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1009 Select_Freq_Digit_Pointer: 3
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1010 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1011 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1012 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1013 meg10 Position is zero
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1014 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1015 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1016 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:16 Freitag, 19. August 2022
+  :1017 meg10 Position is zero
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1018 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1019 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1020 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1021 meg10 Position is zero
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1022 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1023 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1024 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:17 Freitag, 19. August 2022
+  :1025 meg10 Position is zero
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1026 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1027 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1028 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1029 meg10 Position is zero
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1030 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1031 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1032 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1033 meg10 Position is zero
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1034 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1035 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1036 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1037 meg10 Position is zero
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1038 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1039 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1040 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1041 meg10 Position is zero
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1042 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1043 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1044 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:18 Freitag, 19. August 2022
+  :1045 meg10 Position is zero
+-------------------------------
+17:51:19 Freitag, 19. August 2022
+  :1046 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:19 Freitag, 19. August 2022
+  :1047 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:19 Freitag, 19. August 2022
+  :1048 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:19 Freitag, 19. August 2022
+  :1049 meg10 Position is zero
+-------------------------------
+17:51:20 Freitag, 19. August 2022
+  :1050 Set_Default_Digit: 2
+-------------------------------
+17:51:36 Freitag, 19. August 2022
+  :1051 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:36 Freitag, 19. August 2022
+  :1052 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:36 Freitag, 19. August 2022
+  :1053 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:36 Freitag, 19. August 2022
+  :1054 meg10 Position is zero
+-------------------------------
+17:51:39 Freitag, 19. August 2022
+  :1055 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:39 Freitag, 19. August 2022
+  :1056 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:39 Freitag, 19. August 2022
+  :1057 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:39 Freitag, 19. August 2022
+  :1058 meg10 Position is zero
+-------------------------------
+17:51:40 Freitag, 19. August 2022
+  :1059 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:40 Freitag, 19. August 2022
+  :1060 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:40 Freitag, 19. August 2022
+  :1061 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:40 Freitag, 19. August 2022
+  :1062 meg10 Position is zero
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1063 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1064 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1065 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1066 meg10 Position is zero
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1067 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1068 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1069 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:41 Freitag, 19. August 2022
+  :1070 meg10 Position is zero
+-------------------------------
+17:51:45 Freitag, 19. August 2022
+  :1071 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:51:45 Freitag, 19. August 2022
+  :1072 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:45 Freitag, 19. August 2022
+  :1073 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:45 Freitag, 19. August 2022
+  :1074 meg10 Position is zero
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1075 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1076 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1077 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1078 meg10 Position is zero
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1079 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1080 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1081 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1082 meg10 Position is zero
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1083 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1084 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1085 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:46 Freitag, 19. August 2022
+  :1086 meg10 Position is zero
+-------------------------------
+17:51:47 Freitag, 19. August 2022
+  :1087 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:51:47 Freitag, 19. August 2022
+  :1088 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:51:47 Freitag, 19. August 2022
+  :1089 Zero_Frequency -> FreqDigit: 3 Remainder: 0
+-------------------------------
+17:51:47 Freitag, 19. August 2022
+  :1090 meg10 Position is zero
+-------------------------------
+17:52:41 Freitag, 19. August 2022
+  :1091 Set_Default_Digit: 2
+-------------------------------
+17:52:41 Freitag, 19. August 2022
+  :1092 Set_Default_Digit: 2
+-------------------------------
+17:52:41 Freitag, 19. August 2022
+  :1093 Set_Default_Digit: 2
+-------------------------------
+17:52:41 Freitag, 19. August 2022
+  :1094 Set_Default_Digit: 2
+-------------------------------
+17:52:42 Freitag, 19. August 2022
+  :1095 Set_Default_Digit: 2
+-------------------------------
+17:52:42 Freitag, 19. August 2022
+  :1096 Set_Default_Digit: 2
+-------------------------------
+17:52:42 Freitag, 19. August 2022
+  :1097 Set_Default_Digit: 2
+-------------------------------
+17:52:43 Freitag, 19. August 2022
+  :1098 Set_Default_Digit: 2
+-------------------------------
+17:52:44 Freitag, 19. August 2022
+  :1099 Select_Freq_Digit_Pointer: 2
+-------------------------------
+17:52:45 Freitag, 19. August 2022
+  :1100 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:52:45 Freitag, 19. August 2022
+  :1101 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:45 Freitag, 19. August 2022
+  :1102 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:45 Freitag, 19. August 2022
+  :1103 meg10 Position is zero
+-------------------------------
+17:52:46 Freitag, 19. August 2022
+  :1104 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:52:46 Freitag, 19. August 2022
+  :1105 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:46 Freitag, 19. August 2022
+  :1106 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:46 Freitag, 19. August 2022
+  :1107 meg10 Position is zero
+-------------------------------
+17:52:47 Freitag, 19. August 2022
+  :1108 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:52:47 Freitag, 19. August 2022
+  :1109 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:47 Freitag, 19. August 2022
+  :1110 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:47 Freitag, 19. August 2022
+  :1111 meg10 Position is zero
+-------------------------------
+17:52:48 Freitag, 19. August 2022
+  :1112 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:52:48 Freitag, 19. August 2022
+  :1113 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:48 Freitag, 19. August 2022
+  :1114 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:48 Freitag, 19. August 2022
+  :1115 meg10 Position is zero
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1116 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1117 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1118 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1119 meg10 Position is zero
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1120 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1121 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1122 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:55 Freitag, 19. August 2022
+  :1123 meg10 Position is zero
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1124 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1125 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1126 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1127 meg10 Position is zero
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1128 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1129 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1130 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:52:56 Freitag, 19. August 2022
+  :1131 meg10 Position is zero
+-------------------------------
+17:53:18 Freitag, 19. August 2022
+  :1132 Manage_Main_Frequency -> n: 1
+-------------------------------
+17:53:18 Freitag, 19. August 2022
+  :1133 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:53:18 Freitag, 19. August 2022
+  :1134 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:53:18 Freitag, 19. August 2022
+  :1135 meg10 Position is zero
+-------------------------------
+17:53:25 Freitag, 19. August 2022
+  :1136 Manage_Main_Frequency -> n: -1
+-------------------------------
+17:53:25 Freitag, 19. August 2022
+  :1137 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:53:25 Freitag, 19. August 2022
+  :1138 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:53:25 Freitag, 19. August 2022
+  :1139 meg10 Position is zero
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1140 Set_Default_Digit: 3
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1141 Set_Default_Digit: 3
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1142 Volume_ScroolBar_mouseenter
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1143 Volume_ScroolBar_mouseleave
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1144 Volume_textBox2_Enter
+-------------------------------
+17:53:58 Freitag, 19. August 2022
+  :1145 Volume_textBox2_Leave
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1146 Manage_80_Band_VFOA called 
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1147 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: L
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1148 Set_mode_display called -> Finished
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1149 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1150 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1151 meg10 Position is zero
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1152 Manage_80_Band_VFOA -> Current Mode: L
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1153 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1154 Manage_20_Band_VFOA called 
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1155 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1156 Set_mode_display called -> Finished
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1157 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1158 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1159 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1160 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:54:04 Freitag, 19. August 2022
+  :1161 Master_State_Machine. Filter_High_Index: 1
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1162 buttTune_Click
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1163 buttTune_Click -> finished 
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1164 Manage_Text_Display: display_mode: True
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1165 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1166 Meter Set to QRP mode
+-------------------------------
+17:54:07 Freitag, 19. August 2022
+  :1167 Manage_Text_Display: display_mode: False
+-------------------------------
+17:54:10 Freitag, 19. August 2022
+  :1168 buttTune_Click
+-------------------------------
+17:54:10 Freitag, 19. August 2022
+  :1169 Tune -> Current Band: 20 Current Mode Number: 2
+-------------------------------
+17:54:10 Freitag, 19. August 2022
+  :1170 buttTune_Click -> finished 
+-------------------------------
+17:54:10 Freitag, 19. August 2022
+  :1171 Manage_Text_Display: display_mode: True
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1172 Manage_20_Band_VFOA called 
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1173 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: U
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1174 Set_mode_display called -> Finished
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1175 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1176 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1177 Manage_20_Band_VFOA -> Current Mode: U
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1178 Manage_20_Band_VFOA Finished 
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1179 Manage_80_Band_VFOA called 
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1180 Set_mode_display called. VFOA_Last_Used.Last_used.Current_mode: L
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1181 Set_mode_display called -> Finished
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1182 Zero_Frequency_VFOA -> Called
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1183 Zero_Frequency -> FreqDigit: 2 Remainder: 0
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1184 meg10 Position is zero
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1185 Manage_80_Band_VFOA -> Current Mode: L
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1186 Manage_80_Band_VFOA Finished 
+-------------------------------
+17:54:19 Freitag, 19. August 2022
+  :1187 Master_State_Machine. Filter_High_Index: 2
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1188 buttTune_Click
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1189 buttTune_Click -> finished 
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1190 Manage_Text_Display: display_mode: True
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1191 Configure_Meter: Current_mode: 10 Smeter_controls.mode:  2
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1192 Meter Set to QRP mode
+-------------------------------
+17:54:21 Freitag, 19. August 2022
+  :1193 Manage_Text_Display: display_mode: False
+-------------------------------
+17:54:24 Freitag, 19. August 2022
+  :1194 buttTune_Click
+-------------------------------
+17:54:24 Freitag, 19. August 2022
+  :1195 Tune -> Current Band: 80 Current Mode Number: 1
+-------------------------------
+17:54:24 Freitag, 19. August 2022
+  :1196 buttTune_Click -> finished 
+-------------------------------
+17:54:24 Freitag, 19. August 2022
+  :1197 Manage_Text_Display: display_mode: True
+-------------------------------
+17:55:00 Freitag, 19. August 2022
+  :1198 Volume_textBox2_Enter
+-------------------------------
+17:55:00 Freitag, 19. August 2022
+  :1199 Volume_textBox2_Leave
+-------------------------------
+17:55:00 Freitag, 19. August 2022
+  :1200 Mic_Gain_ScroolBar_mouseenter
+-------------------------------
+17:55:00 Freitag, 19. August 2022
+  :1201 Mic_Gain_ScroolBar_mouseleave
+-------------------------------
+17:55:13 Freitag, 19. August 2022
+  :1202 Update_RPi_Settings
+-------------------------------
+17:55:13 Freitag, 19. August 2022
+  :1203 MSCC shutdown by user
+-------------------------------
