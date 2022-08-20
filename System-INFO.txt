@@ -1,0 +1,14 @@
+Gerätename	HAM-Pc
+Prozessor	AMD FX(tm)-4300 Quad-Core Processor               3.80 GHz
+Installierter RAM	8.00 GB
+Geräte-ID	8D452BCD-C800-4B13-9FAB-EAE06EA73D1E
+Produkt-ID	00330-80000-00000-AA878
+Systemtyp	64-Bit-Betriebssystem, x64-basierter Prozessor
+Stift- und Toucheingabe	Für diese Anzeige ist keine Stift- oder Toucheingabe verfügbar.
+
+
+Edition	Windows 10 Pro
+Version	21H1
+Installiert am	‎14.‎10.‎2021
+Betriebssystembuild	19043.1566
+Leistung	Windows Feature Experience Pack 120.2212.4170.0
