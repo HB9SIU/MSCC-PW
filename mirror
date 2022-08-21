@@ -1,0 +1,44 @@
+Hi Ron,
+
+I wish you a beautiful Sunday.
+I can wish you that, I'm 79 years old. Hi
+
+Attached are a few pictures of the problem with the pseudo signals.
+
+Signal source: HP 8663A
+Hardware RX: Proficio V5.1
+
+Software (Copy from MSCC System)
+MSCC: 08/15/2022 MS-sdr: 122.816 SDRcore-recv: 122.611 SDRcore-trans: 122.0
+Professional: 122.1
+
+Spectra were acquired on the 80m, 40m and 20m bands
+
+Signal input level: partly -80dBm or -60dBm
+
+Mode: USB, LSB, CW
+
+File names of the images:
+All file names start with "Spectrum" followed by [Band] [Mode] [Level].jpg
+
+General remark:
+The phenomenon of pseudo-signals (so far called "mirror".signal by me),
+has ONE effect on the audio signal that can be heard in the speaker or earpiece.
+
+If the RX is set to a frequency f. all signals with f - 24 kHz will fall into the reception filter and will therefore be audible.
+
+A level non-calibrated signal with f=3776kHz produces an S-meter deflection of -94dBm.
+If this signal is set to the frequency f=3752kc with the same output level, we get an S-meter reading of -100dBm.
+Unwanted signal is received only 6dB smaller than the wanted signal.
+
+The phenomenon shows no dependence as a function of the level. Level change 20dB
+(Assessment only assessed visually from the Spectrums images.
+
+The tested bands 80m, 40m and 20m show practically no difference in behavior
+
+That's it. much luck
+
+best 73 from HB9SIU, John
+
+6  pictures uploaded to this text
+
